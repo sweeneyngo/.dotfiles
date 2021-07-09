@@ -1,0 +1,16 @@
+configuration {
+
+	modi: "drun,window,run";
+	width: 15;
+	show-icons: false;
+	icon-theme: "papirus";
+	lines: 3;
+	fake-transparency: false;
+	sidebar-mode: true;
+	show-match: false;
+	drun-display-format: "{name}";
+	theme-str: "element-icon { margin: 10px;}";
+}
+
+@import "list.rasi"
+

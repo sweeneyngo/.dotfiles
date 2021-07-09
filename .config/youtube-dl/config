@@ -1,0 +1,25 @@
+# Lines starting with # are comments
+
+# Always extract audio
+# -x
+
+#--format best
+# -i
+# --cookies ~/Downloads/cookies.txt
+--geo-bypass
+--verbose
+# Do not copy the mtime
+# --no-mtime
+
+# Use this proxy
+# --proxy 127.0.0.1:3128
+
+
+# --restrict-filenames
+# --write-description
+# --write-info-json
+# --write-annotations
+# --write-thumbnail
+
+# Save all videos under Movies directory in your home directory
+-o ~/Music/%(title)s.%(ext)s

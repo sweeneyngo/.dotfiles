@@ -1,0 +1,8 @@
+sh ~/.fehbg &
+wal -i ~/Downloads/wallpaper/v2.jpg -o $HOME/.config/dunst/startdunst.sh &
+xrandr -s 1600x900 -r 60 &
+feh --bg-scale ~/Downloads/wallpaper/v2.jpg &
+sleep 1 && sh ~/.config/polybar/launch.sh &
+compton --config ~/.config/compton/compton.conf &
+sleep 5 && ~/.scripts/blurme &
+
