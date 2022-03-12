@@ -20,9 +20,4 @@
 * Firefox • Prismatic Night + custom startpage
 * Font • `scientfica 9`, `Iosevka 9`, `gohufont 11`
 
-<sub>who is that?::</sub>
-* left: <i>アノニマスファンフアレ / anonymous fanfare - gumi [オリジナル]</i>
-* right: <i>関口東吾 / sekiguchi togo - oddtaxi</i>
-* topright: <i>list of favorite UTAUカバー 😺</i>
-
 ![img.png](https://i.imgur.com/hxygc6p.png)
